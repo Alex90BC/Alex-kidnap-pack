@@ -1,0 +1,44 @@
+{
+	title: "Loading traps",
+	x: 6.0d,
+	y: 2.0d,
+	text: [
+		"Once you have your traps, you need to load them with at least some restraints, and maybe something else like a gag. ",
+		"For now, just place a trap with a rope in the crafting grid to have it now ready to be used. Once you completed the quest, remember that you can use any combination of restraints and gags that you want applied to your prey to use together with the trap, not just basic ropes.",
+		"",
+		"Mind, that there is an alternative way to load traps. Once you placed one down by holding right click, you can right click the deployed trap with some bondage item in your hand too. Beware, the trap loads instantly, so don't stand on top of it while you do it!",
+		"",
+		"Or maybe do it. I bet you don't have the guts to try anyway..."
+	],
+	dependencies: [
+		"7fcb6c69"
+	],
+	tasks: [{
+		uid: "6f8e30ad",
+		type: "item",
+		items: [{
+			id: "knapm:ropes_trap",
+			tag: {
+				BlockEntityTag: {
+					bind: {
+						id: "knapm:ropes",
+						Count: 1b,
+						Damage: 0s
+					},
+					id: "minecraft:knapm_bind_trap_tile"
+				}
+			}
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "1bc58210",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "82981487",
+		type: "random",
+		table: 1
+	}]
+}

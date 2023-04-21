@@ -1,0 +1,14 @@
+name = "Wireless Redstone"
+filename = "WirelessRedstone-1.12.2-1.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2mBYHHZ5/versions/gdrPJIMc/WirelessRedstone-1.12.2-1.1.4.jar"
+hash-format = "sha512"
+hash = "a6876fa25abcfa81ca2d44a7d2c4cd031ad2e5f73e5774c8cf5a1e3b35b04a1d35f155fc22199cbba7474aa622e5daceb6e48cf10ab487a22fa9e2ef31c091ce"
+
+[update]
+[update.modrinth]
+mod-id = "2mBYHHZ5"
+version = "gdrPJIMc"

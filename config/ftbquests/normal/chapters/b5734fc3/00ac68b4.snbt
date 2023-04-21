@@ -1,0 +1,16 @@
+{
+	title: "Decoration mods",
+	icon: "props:props 1 380",
+	x: 0.0d,
+	y: 10.5d,
+	shape: "rsquare",
+	text: [
+		"The mods with this shape are suited to make your interiors look more interesting, build faster, shoot photos to use in-game and even change each \"pixel\" in a single block. Some are very simple, some are very in-depth, but they're all optional, so even if you don't use a single one of them is all good.",
+		"",
+		"When you see someone else use one of these you'll want to learn using them anyway, probably, Chisel and bits is quite something when used well, the only way to build really good looking BDSM furniture too in most cases."
+	],
+	tasks: [{
+		uid: "8d909531",
+		type: "checkmark"
+	}]
+}

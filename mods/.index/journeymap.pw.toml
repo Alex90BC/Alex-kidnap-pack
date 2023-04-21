@@ -1,0 +1,14 @@
+name = "JourneyMap"
+filename = "journeymap-1.12.2-5.7.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/vacvhRKp/journeymap-1.12.2-5.7.1.jar"
+hash-format = "sha512"
+hash = "8161ce28f0e3b1d8259d463bf515fa6e0036a40c4a2b4f269b58a7837088deebcdad3a0123863b2d2d4d1b02aa2bb2239b6373327a897a7647a86048c61445c0"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "vacvhRKp"

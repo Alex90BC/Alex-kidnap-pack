@@ -1,0 +1,14 @@
+name = "YNot"
+filename = "YNot-0.2.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Dcdm9m9l/versions/0.2.4/YNot-0.2.4.jar"
+hash-format = "sha512"
+hash = "58952c8d27af15571f5814d1112a9c3325763eabd07f59d6c4f0dcd36be3f35867f66b93d4e9919860adbe09207a122869292b0b2e5ce9107976e15cc424b2e5"
+
+[update]
+[update.modrinth]
+mod-id = "Dcdm9m9l"
+version = "USo6Y8Tu"

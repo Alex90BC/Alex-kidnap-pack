@@ -1,0 +1,14 @@
+name = "Spell Checker"
+filename = "Spell-Checker-1.0.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xrdXfWii/versions/1.0.2.1/Spell-Checker-1.0.2.1.jar"
+hash-format = "sha512"
+hash = "6c79c073b540d9b8160703bf4f9ee7cc12b56959f637a01b3ab04d35cad2bc2ff97f936cf0de2936446e0ea685992863494635471d05a8fc783dd3dfbf9b9032"
+
+[update]
+[update.modrinth]
+mod-id = "xrdXfWii"
+version = "H0GSq1S5"

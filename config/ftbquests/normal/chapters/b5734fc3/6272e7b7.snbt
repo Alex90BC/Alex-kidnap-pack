@@ -1,0 +1,16 @@
+{
+	title: "Camera mod",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "camera:camera"
+	},
+	x: 0.0d,
+	y: 16.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "a9dcdc1d",
+		type: "checkmark"
+	}]
+}

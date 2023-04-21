@@ -1,0 +1,29 @@
+#This is a simple dump of all molten liquids, in raw form, with their block names (in brackets) and their localized names, in the format of:
+
+#FLUIDID 										  (FLUIDBLOCK)																	   = FLUIDLOCALIZEDNAME
+
+#ANY AND ALL CHANGES TO THIS FILE WILL BE REPLACED WHEN THIS FILE IS REGENERATED NEXT TIME THE GAME IS RUN. THIS IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A CONFIG FILE!
+
+electrical_steel                                  (enderio:block_fluid_electrical_steel)                                           = Molten Electrical Steel
+energetic_alloy                                   (enderio:block_fluid_energetic_alloy)                                            = Molten Energetic Alloy
+vibrant_alloy                                     (enderio:block_fluid_vibrant_alloy)                                              = Molten Vibrant Alloy
+redstone_alloy                                    (enderio:block_fluid_redstone_alloy)                                             = Molten Redstone Alloy
+conductive_iron                                   (enderio:block_fluid_conductive_iron)                                            = Molten Conductive Iron
+pulsating_iron                                    (enderio:block_fluid_pulsating_iron)                                             = Molten Pulsating Iron
+dark_steel                                        (enderio:block_fluid_dark_steel)                                                 = Molten Dark Steel
+soularium                                         (enderio:block_fluid_soularium)                                                  = Molten Soularium
+end_steel                                         (enderio:block_fluid_end_steel)                                                  = Molten End Steel
+construction_alloy                                (enderio:block_fluid_construction_alloy)                                         = Molten Iron Alloy
+obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
+iron                                              (tconstruct:molten_iron)                                                         = Molten Iron
+pigiron                                           (tconstruct:molten_pigiron)                                                      = Molten Pigiron
+knightslime                                       (tconstruct:molten_knightslime)                                                  = Molten Knightslime
+cobalt                                            (tconstruct:molten_cobalt)                                                       = Molten Cobalt
+ardite                                            (tconstruct:molten_ardite)                                                       = Molten Ardite
+manyullyn                                         (tconstruct:molten_manyullyn)                                                    = Molten Manyullyn
+copper                                            (tconstruct:molten_copper)                                                       = Molten Copper
+bronze                                            (tconstruct:molten_bronze)                                                       = Molten Bronze
+lead                                              (tconstruct:molten_lead)                                                         = Molten Lead
+silver                                            (tconstruct:molten_silver)                                                       = Molten Silver
+electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
+steel                                             (tconstruct:molten_steel)                                                        = Molten Steel

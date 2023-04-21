@@ -1,0 +1,28 @@
+{
+	title: "The oldest trick in the book",
+	x: 6.0d,
+	y: 3.5d,
+	text: [
+		"Once someone knows about this it's probably not going to work again, but you can maybe score an easy pray by trapping someone's comfiest place, their bed. And once they get trapped, they'll going to be conveniently laying on the bed already, so if it does work, it's a very nice way to get something started, isn't it?",
+		"",
+		"After you crafted the trapped bed by combining the bed with a redstone block, you have to load it as it was a normal trap, both ways mentioned in that section works the same for beds too, either by pre-loading it in the crafting grid, or right clicking with some restraints on it.",
+		"",
+		"Well, that was hard work, isn't that bed even more inviting now?"
+	],
+	dependencies: [
+		"8c5693d7"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f9be6a1f",
+		type: "item",
+		items: [{
+			item: "knapm:trapped_bed"
+		}]
+	}],
+	rewards: [{
+		uid: "97453697",
+		type: "item",
+		item: "knapm:golden_knife"
+	}]
+}

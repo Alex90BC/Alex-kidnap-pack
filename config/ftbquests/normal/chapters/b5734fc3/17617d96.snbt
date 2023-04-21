@@ -1,0 +1,14 @@
+{
+	title: "Compact Machines 3",
+	x: 4.0d,
+	y: 6.5d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "4be9d5a4",
+		type: "checkmark",
+		icon: "compactmachines3:fieldprojector"
+	}]
+}

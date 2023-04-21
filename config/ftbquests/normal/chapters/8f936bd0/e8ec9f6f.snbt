@@ -1,0 +1,42 @@
+{
+	title: "Congratulations!",
+	x: 8.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"You're now ready to take on any tame or bratty sub, but this is only just the basics. There are some mechanics that involves redstone (dispensers can do multiple things, try them out!) and NPC offer a couple services too, you'll need to lock a collar on one of them first to access them though.",
+		"",
+		"Go and have some fun now!"
+	],
+	dependencies: [
+		"8c5693d7",
+		"f6ecf2fd",
+		"0f96e2bc",
+		"c03e159a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "016a7839",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "5f5e9907",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "knapm:collar"
+		}
+	},
+	{
+		uid: "017c1f4a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "knapm:collar_key"
+		}
+	}]
+}

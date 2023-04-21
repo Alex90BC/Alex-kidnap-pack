@@ -1,0 +1,7 @@
+{
+	title: "Quickstart on bondage",
+	icon: "knapm:shibari",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

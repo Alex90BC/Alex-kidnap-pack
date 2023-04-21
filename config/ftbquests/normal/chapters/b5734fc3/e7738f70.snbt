@@ -1,0 +1,11 @@
+{
+	title: "Decocraft",
+	icon: "props:props 1 1957",
+	x: 2.0d,
+	y: 15.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "6abd9c6b",
+		type: "checkmark"
+	}]
+}

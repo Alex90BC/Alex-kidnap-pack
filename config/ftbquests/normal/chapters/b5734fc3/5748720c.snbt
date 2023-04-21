@@ -1,0 +1,20 @@
+{
+	title: "Mekanism",
+	x: -4.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "4c006fc4",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 4s
+		}
+	}]
+}

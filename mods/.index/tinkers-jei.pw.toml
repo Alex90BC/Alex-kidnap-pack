@@ -1,0 +1,14 @@
+name = "Tinker's JEI"
+filename = "tinkersjei-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0ee37cbd099fd3693f1f45673ba498ce7e3a3849"
+
+[update]
+[update.curseforge]
+file-id = 2701203
+project-id = 291786

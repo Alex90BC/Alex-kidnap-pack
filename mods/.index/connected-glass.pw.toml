@@ -1,0 +1,14 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.6a-forge-mc1.12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DghO0R02/versions/WRkpqusi/connectedglass-1.1.6a-forge-mc1.12.jar"
+hash-format = "sha512"
+hash = "5b4f6c6408f2968609001a40e028fee0ee4af7e852d72d81ff130d5d51a7e816fbd164fc649a20ffc4692ea09a2435fc9d14a2cedd2c429cd6ce1f0a40e61a35"
+
+[update]
+[update.modrinth]
+mod-id = "DghO0R02"
+version = "WRkpqusi"

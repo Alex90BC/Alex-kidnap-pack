@@ -1,0 +1,20 @@
+{
+	title: "Spanking toy",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "knapm:paddle"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "knapm:whip"
+		}
+	}]
+}

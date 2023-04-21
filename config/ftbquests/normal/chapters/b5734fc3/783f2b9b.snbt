@@ -1,0 +1,17 @@
+{
+	title: "Welcome!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"In this chapter you'll have some direction on what is the intended way to progress in the modpack that is not bondage related, there is a dedicated chapter on it that you can check at any time.",
+		"",
+		"This is not an actual quest line, there's nothing you have to do to progress, it's just all info you'll need to start delivered in small bites so it doesn't overwhelm you.",
+		"",
+		"It is assumed you know how to use JEI (Just Enough Items) to look for items, recipes and uses for said items and searching filtering by mod.",
+		"If you're not familiar with the mod it is strongly recommended you look for some info about it before proceeding. Click the checkmark when you're ready to get going."
+	],
+	tasks: [{
+		uid: "34b3e291",
+		type: "checkmark"
+	}]
+}

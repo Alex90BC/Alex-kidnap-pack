@@ -1,0 +1,20 @@
+{
+	title: "Astral Sorcery",
+	x: -4.0d,
+	y: 6.5d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "00f1899b",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 2s
+		}
+	}]
+}

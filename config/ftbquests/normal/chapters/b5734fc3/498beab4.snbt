@@ -1,0 +1,11 @@
+{
+	title: "MrCrayfish's Furniture Mod",
+	icon: "cfm:freezer",
+	x: -2.0d,
+	y: 13.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "069fb1e5",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,14 @@
+name = "Dense Ores Configurable"
+filename = "denseores-1.12.2-1.0.6.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 3158043
+project-id = 433521

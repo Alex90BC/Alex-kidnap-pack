@@ -1,0 +1,16 @@
+{
+	title: "Early game",
+	icon: "minecraft:crafting_table",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Given the variety of mods in the modpack, there's no right way to progress, but this section will give you informations about the smaller mods that are available that are probably going to be useful to the majority of players"
+	],
+	dependencies: [
+		"783f2b9b"
+	],
+	tasks: [{
+		uid: "652cb676",
+		type: "checkmark"
+	}]
+}

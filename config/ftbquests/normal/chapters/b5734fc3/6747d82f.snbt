@@ -1,0 +1,19 @@
+{
+	title: "Better Builder's Wands",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "betterbuilderswands:wanddiamond"
+	},
+	x: 0.0d,
+	y: 12.5d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "2fd22090",
+		type: "checkmark"
+	}]
+}

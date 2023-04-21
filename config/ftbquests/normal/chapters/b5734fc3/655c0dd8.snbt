@@ -1,0 +1,26 @@
+{
+	title: "Storage Drawers",
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"Storage Drawers is the mod for your non-mobile storage that is often useful since the early game as main storage, but also a very solid support for your advanced storage system later on.",
+		"",
+		"Each drawer can contain a lot of a single kind of item, and if you connect your drawers to a drawer controller, you can double click on the controller directly and all of your items already in the drawers will sort themselves into the right drawers. ",
+		"",
+		"Their capacity and even functionality can be upgraded to suit your needs, for example voiding items gathered from a farm to avoid clogging your pipes or your digital storage system, or display how many items are present in the drawer at a glance so you can monitor easily your more precious resources."
+	],
+	dependencies: [
+		"c429ac1b"
+	],
+	tasks: [{
+		uid: "9e62f285",
+		type: "checkmark",
+		icon: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "spruce"
+			},
+			Damage: 2s
+		}
+	}]
+}

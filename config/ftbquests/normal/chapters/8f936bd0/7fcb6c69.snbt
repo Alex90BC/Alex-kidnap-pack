@@ -1,0 +1,27 @@
+{
+	title: "It's a trap!",
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"There's nothing like the thrill of sneaking in someone's house, trap it with some redstone contraption and let the owner walk in to their lewd demise, your prize ready for you because you outsmarted them.",
+		"",
+		"If you too want to do something like that, kidnapping traps are the way to go. Replicate the recipe shown clicking on the trap down below to make some of them and get ready to place 1, or 50, in someone's house. They're bound to fall for one, right? Right?"
+	],
+	dependencies: [
+		"14a02c9b"
+	],
+	tasks: [{
+		uid: "01b34c87",
+		type: "item",
+		items: [{
+			item: "knapm:ropes_trap"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "2eb85430",
+		type: "item",
+		item: "knapm:ropes_trap",
+		count: 5
+	}]
+}

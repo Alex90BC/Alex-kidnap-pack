@@ -1,0 +1,14 @@
+name = "ESSENTIAL Mod"
+filename = "Essential-forge_1-12-2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-12-2.jar"
+hash-format = "sha512"
+hash = "be64557f664440d806cb65d0c6ec80da25b98a6b3272ab6e605259336c14562f7567df06896f788a4b43724732dafd341af1a0cb4b00dbdd3b7fa6f70a223587"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "X6SeDlUa"

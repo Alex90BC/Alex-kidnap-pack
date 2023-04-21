@@ -1,0 +1,11 @@
+{
+	title: "Macaw's mods",
+	icon: "props:props 1 290",
+	x: -2.0d,
+	y: 15.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "8089761a",
+		type: "checkmark"
+	}]
+}

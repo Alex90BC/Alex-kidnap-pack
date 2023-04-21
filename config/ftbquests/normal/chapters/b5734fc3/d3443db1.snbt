@@ -1,0 +1,14 @@
+{
+	title: "CC: Tweaked / OpenComputers",
+	x: 2.0d,
+	y: 6.5d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "a5e7786a",
+		type: "checkmark",
+		icon: "computercraft:computer"
+	}]
+}

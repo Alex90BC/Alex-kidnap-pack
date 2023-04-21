@@ -1,0 +1,40 @@
+{
+	title: "Loading arrows",
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"Once you have your kidnapping arrow, you need to load it with at least some restraints, and maybe something else like a gag. ",
+		"For now, just place a kidnapping arrow with a rope in the crafting grid to have the arrow now ready to be used. Once you completed the quest, remember that you can use any combination of restraints and gags that you want applied to your prey to use together with the arrow, not just basic ropes.",
+		"",
+		"TIP: Use unenchanted, low damage bows and keep the loaded kidnapping arrows in your off-hand to make sure to not kill the person you want to restrain. Even masochists people could have a problem being blown up."
+	],
+	dependencies: [
+		"ff96da46"
+	],
+	tasks: [{
+		uid: "8d9752be",
+		type: "item",
+		items: [{
+			id: "knapm:rope_arrow",
+			tag: {
+				bind: {
+					id: "knapm:ropes",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "09623a5f",
+		type: "choice",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "knapm:whip"
+		},
+		table: 2
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "V0id's Smart Backpack",
+	x: -3.0d,
+	y: 3.0d,
+	text: [
+		"An item that could be of use to you throughout your whole experience is the backpack of choice, V0id's Smart Backpack. ",
+		"",
+		"Not only they increase the amount of storage available to you, but they can do a lot of heavy lifting for you, from just gathering the items inside of it automatically to not fill your inventory while you mine or adventure, to feed you automatically, store RF/FE and recharge your gadgets, pulverizing, smelting, compacting the ores you gather and more."
+	],
+	dependencies: [
+		"c429ac1b"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "96147b45",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			}
+		}
+	}]
+}

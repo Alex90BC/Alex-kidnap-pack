@@ -1,0 +1,14 @@
+name = "Super Roleplay Mod"
+filename = "SRM_Release_7_1.15.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b858501b4c43e67755ef1ef422c7cfc32b7124a2"
+
+[update]
+[update.curseforge]
+file-id = 3041935
+project-id = 402904

@@ -1,0 +1,14 @@
+{
+	title: "Blood Magic: Alchemical Wizardry",
+	x: -2.0d,
+	y: 6.5d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "93b14815",
+		type: "checkmark",
+		icon: "bloodmagic:altar"
+	}]
+}

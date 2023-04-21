@@ -1,0 +1,14 @@
+{
+	title: "Thermal Series",
+	x: 4.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "358c9a1f",
+		type: "checkmark",
+		icon: "thermalexpansion:frame"
+	}]
+}

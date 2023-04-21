@@ -1,0 +1,14 @@
+name = "Construct's Armory"
+filename = "conarm-1.12.2-1.2.5.10.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b"
+
+[update]
+[update.curseforge]
+file-id = 3174535
+project-id = 287683

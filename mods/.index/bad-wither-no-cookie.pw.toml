@@ -1,0 +1,14 @@
+name = "Bad Wither No Cookie - Reloaded"
+filename = "badwithernocookiereloaded-1.12.2-3.4.18.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lL2MtE37/versions/3.4.18/badwithernocookiereloaded-1.12.2-3.4.18.jar"
+hash-format = "sha512"
+hash = "30b1a9b9187e8c3af128a13bc67b1056e682e58788adfeb0caff25e542402ebf9de449c95bdc44321b3e29268f03b679c1e47c750545d00d9bf63109943717a5"
+
+[update]
+[update.modrinth]
+mod-id = "lL2MtE37"
+version = "2CWlpXcj"

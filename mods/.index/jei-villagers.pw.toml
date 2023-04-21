@@ -1,0 +1,14 @@
+name = "JEI Villagers"
+filename = "jeivillagers-1.12-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "82caaf16ae378d2e2eea9ecd58e9b8fe46ecb194"
+
+[update]
+[update.curseforge]
+file-id = 2508393
+project-id = 283013

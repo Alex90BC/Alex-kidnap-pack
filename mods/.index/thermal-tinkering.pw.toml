@@ -1,0 +1,14 @@
+name = "Thermal Tinkering"
+filename = "ThermalTinkering-1.12.2-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ba227140831886b512cd5cec9459c1c23b6f92ce"
+
+[update]
+[update.curseforge]
+file-id = 2684043
+project-id = 251718

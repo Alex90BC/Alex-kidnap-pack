@@ -1,0 +1,14 @@
+name = "ZeroCore"
+filename = "zerocore-1.12.2-0.1.2.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/BM8zU1AX/zerocore-1.12.2-0.1.2.9.jar"
+hash-format = "sha512"
+hash = "a2f3d084ca23c0c0e75684484173e98b89a84f0e828cb73afd1461100f01bc7af19faa1b907db8a176c913cbb4180e78ca3f4101eeeecdc80b6f54d4d072ba05"
+
+[update]
+[update.modrinth]
+mod-id = "rHpb85Mf"
+version = "BM8zU1AX"

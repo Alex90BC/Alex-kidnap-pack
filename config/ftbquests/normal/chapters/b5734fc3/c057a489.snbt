@@ -1,0 +1,14 @@
+{
+	title: "\"Big Mods\"",
+	x: 0.0d,
+	y: 5.0d,
+	shape: "gear",
+	text: [
+		"The mods with this shape are all mods that are considered to be the major ones, anything that gives you lots of benefits, can make lots of stuff with it, and even center your base and your character around it."
+	],
+	tasks: [{
+		uid: "eef4cc55",
+		type: "checkmark",
+		icon: "minecraft:nether_star"
+	}]
+}

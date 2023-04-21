@@ -1,0 +1,14 @@
+name = "Waila Harvestability"
+filename = "WailaHarvestability-mc1.12-1.1.12.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7e1abc8dd61390285167284a5eb3bf0e57a52760"
+
+[update]
+[update.curseforge]
+file-id = 2481605
+project-id = 79287

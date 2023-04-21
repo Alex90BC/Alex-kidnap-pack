@@ -1,0 +1,19 @@
+{
+	title: "Chisel",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "chisel:chisel_iron"
+	},
+	x: 0.0d,
+	y: 14.5d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "c41bf1d4",
+		type: "checkmark"
+	}]
+}

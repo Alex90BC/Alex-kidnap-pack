@@ -1,0 +1,25 @@
+{
+	title: "Level up! Reloaded",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "levelup2:skillbook"
+	},
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"This is a small mod but one that will give you the most benefits if started early and in the early game in general. ",
+		"",
+		"You can dump 5 of your levels into one Level Up level and buy perks with it that makes combat, mining and combat easier.",
+		"",
+		"You can do everything through the skill book that is given to you the first time you load the world, pick a class to get some preset perks for free, and buy the rest of the perks if they interest you. Good to either min max or roleplay, takes little effort, even if you're not interested I would at least get the freebie perks."
+	],
+	dependencies: [
+		"c429ac1b"
+	],
+	tasks: [{
+		uid: "ae9880ca",
+		type: "checkmark"
+	}]
+}

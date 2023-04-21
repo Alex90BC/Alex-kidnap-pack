@@ -1,0 +1,14 @@
+{
+	title: "RFTools",
+	x: 0.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f8e5bdef",
+		type: "checkmark",
+		icon: "rftools:builder"
+	}]
+}

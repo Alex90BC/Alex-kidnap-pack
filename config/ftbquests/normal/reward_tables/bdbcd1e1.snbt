@@ -1,0 +1,37 @@
+{
+	title: "Restraints",
+	loot_size: 1,
+	rewards: [{
+		item: "knapm:leather_straps"
+	},
+	{
+		item: "knapm:straitjacket"
+	},
+	{
+		item: "knapm:latex_sack"
+	},
+	{
+		item: "knapm:vine_seed"
+	},
+	{
+		item: "knapm:wrap"
+	},
+	{
+		item: "knapm:chain"
+	},
+	{
+		item: "knapm:ribbon"
+	},
+	{
+		item: "knapm:slime"
+	},
+	{
+		item: "knapm:armbinder"
+	},
+	{
+		item: "knapm:web_bind"
+	},
+	{
+		item: "knapm:beam_cuffs"
+	}]
+}

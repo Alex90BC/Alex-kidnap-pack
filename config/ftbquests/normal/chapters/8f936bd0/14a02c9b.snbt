@@ -1,0 +1,47 @@
+{
+	title: "Learning the ropes",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"Once you gathered the 5 white wools, you can make your first ropes. ",
+		"If you don't know how to place the wool in the crafting grid, click on the ropes in the \"Tasks\" section to see their recipe, remember you can do this for most (but not all) the quests.",
+		"",
+		"Ropes on their own are not suited to kidnapping someone, on their own will probably work only if someone is going to accept being tied, but you can ask in chat if someone wants to help experimenting with you or just have some fun.",
+		"",
+		"You'll need a few ropes to craft the next items so make sure to keep some!"
+	],
+	dependencies: [
+		"020ead3a"
+	],
+	tasks: [{
+		uid: "a316c8cc",
+		type: "item",
+		items: [{
+			item: "knapm:ropes"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "2633764e",
+		type: "item",
+		item: "knapm:ropes",
+		count: 12
+	},
+	{
+		uid: "b189edc3",
+		type: "choice",
+		icon: "knapm:armbinder",
+		table: 1
+	},
+	{
+		uid: "0323e166",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 32
+	},
+	{
+		uid: "6fda0a29",
+		type: "item",
+		item: "minecraft:arrow"
+	}]
+}

@@ -1,0 +1,14 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.6-forge-mc1.12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/1.1.6-forge-mc1.12/supermartijn642configlib-1.1.6-forge-mc1.12.jar"
+hash-format = "sha512"
+hash = "06d89761c97945555a5e3f2755c50937807682308f71f12ee85dec0e3ff0646ec7643a8cee78f2d5f86afccbfdca3307379052f53d20733facf086095079ee4a"
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "IODfugHm"

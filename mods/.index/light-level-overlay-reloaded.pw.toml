@@ -1,0 +1,14 @@
+name = "Light Level Overlay Reloaded"
+filename = "LLOverlayReloaded-1.1.6-mc1.12.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "38de949c94ac06b2fce94e642b729568ce7788af"
+
+[update]
+[update.curseforge]
+file-id = 2563430
+project-id = 226670

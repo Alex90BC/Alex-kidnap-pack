@@ -1,0 +1,14 @@
+name = "ThermalLogistics"
+filename = "thermallogistics-0.3-43.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7ce041644716f20cf07eddb710f7caf32d0d31a2"
+
+[update]
+[update.curseforge]
+file-id = 3379693
+project-id = 313298

@@ -1,0 +1,35 @@
+{
+	title: "No lollygagging",
+	x: 4.0d,
+	y: -2.0d,
+	text: [
+		"Once you tied up someone, and only after that happened, you can gag them too for a true helpless experience.",
+		"",
+		"You can place a rope in the crafting grid to convert it into rope gags. If you're a shibari fan, you should make some rope gags, so you can get your hands on some shibari ropes too!",
+		"",
+		"Or, you know, to advance to the next part of the quest."
+	],
+	dependencies: [
+		"14a02c9b"
+	],
+	tasks: [{
+		uid: "b0bf0e7a",
+		type: "item",
+		items: [{
+			item: "knapm:ropes_gag"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "b0c89284",
+		type: "item",
+		item: "knapm:ropes_gag",
+		count: 12
+	},
+	{
+		uid: "84c8e1ec",
+		type: "choice",
+		icon: "knapm:panel_gag",
+		table: 0
+	}]
+}

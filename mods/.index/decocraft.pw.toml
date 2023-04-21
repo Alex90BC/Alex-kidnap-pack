@@ -1,0 +1,14 @@
+name = "Decocraft"
+filename = "Decocraft-2.6.3.7_1.12.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/2.6.3.7/Decocraft-2.6.3.7_1.12.2.jar"
+hash-format = "sha512"
+hash = "6defecaa2b5b875b03add4c204726d4b31b82c37ec64dfa1a56ca146d63c55d4a3920f611a5752246f266e64255770d3541127fc3c8feaedb4254eb1029cb655"
+
+[update]
+[update.modrinth]
+mod-id = "IZJSgKZe"
+version = "jL2xTD19"

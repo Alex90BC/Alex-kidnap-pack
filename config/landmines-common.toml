@@ -1,0 +1,96 @@
+[General]
+    # How much time should there be after arming a landmine before it can be triggered in ticks? 1 second = 20 ticks.
+    # Allowed range: 0 ~ 2400 - Default: 100
+    activationDelay = 100
+
+    [General."Arrow Landmine"]
+        # Should the arrow landmine be reusable?
+        # Allowed values: true, false - Default: true
+        arrowsReusable = true
+
+        # How many arrows should be spawned?
+        # Allowed range: 8 ~ 100 - Default: 16
+        arrowsCount = 16
+
+    [General."Teleport Landmine"]
+        # Should the teleport landmine be reusable?
+        # Allowed values: true, false - Default: true
+        teleportReusable = true
+
+        # What is the max range entities can be teleported to?
+        # Allowed range: 3.0 ~ 100.0 - Default: 16.0
+        teleportRange = 16.0
+
+    [General."Snow Landmine"]
+        # In what range should the snow landmine spread snow?
+        # Allowed range: 3 ~ 10 - Default: 5
+        snowRange = 5
+
+        # Should the snow landmine be reusable?
+        # Allowed values: true, false - Default: true
+        snowReusable = true
+
+    [General."Levitation Landmine"]
+        # How long should the levitation effect last in ticks?
+        # Allowed range: 20 ~ 1200 - Default: 100
+        levitationDuration = 100
+
+        # Should the levitation landmine be reusable?
+        # Allowed values: true, false - Default: true
+        levitationReusable = true
+
+    [General."Zombie Landmine"]
+        # Should the zombie landmine be reusable?
+        # Allowed values: true, false - Default: false
+        zombieReusable = false
+
+        # How many zombies should be spawned?
+        # Allowed range: 1 ~ 50 - Default: 5
+        zombieCount = 5
+
+        # In what range should zombies spawn?
+        # Allowed range: 3 ~ 10 - Default: 4
+        zombieRange = 4
+
+    [General."Fake Landmine"]
+        # Should the fake landmine be reusable?
+        # Allowed values: true, false - Default: true
+        fakeReusable = true
+
+    [General."Explosion Landmine"]
+        # Should the explosion from an explosion landmine cause fire?
+        # Allowed values: true, false - Default: false
+        explosionCausesFire = false
+
+        # Should the explosion landmine be reusable?
+        # Allowed values: true, false - Default: false
+        explosionReusable = false
+
+        # Should the explosion from an explosion landmine break blocks?
+        # Allowed values: true, false - Default: true
+        explosionBreakBlocks = true
+
+    [General."Potion Landmine"]
+        # Should the potion landmine be reusable?
+        # Allowed values: true, false - Default: true
+        potionReusable = true
+
+    [General."Launch Landmine"]
+        # Should the launch landmine be reusable?
+        # Allowed values: true, false - Default: true
+        launchReusable = true
+
+        # With what force should entities be launched? 1 ~= 4.5 blocks in height
+        # Allowed range: 0.1 ~ 2.0 - Default: 1.0
+        launchForce = 1.0
+
+    [General."Fire Landmine"]
+        # Should the fire landmine be reusable?
+        # Allowed values: true, false - Default: true
+        fireReusable = true
+
+    [General."Lightning Landmine"]
+        # Should the lightning landmine be reusable?
+        # Allowed values: true, false - Default: true
+        lightningReusable = true
+

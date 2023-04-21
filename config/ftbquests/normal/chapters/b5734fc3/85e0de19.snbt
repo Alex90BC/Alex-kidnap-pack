@@ -1,0 +1,20 @@
+{
+	title: "Tinkers' Construct & Construct Armory",
+	x: 1.0d,
+	y: 3.0d,
+	text: [
+		"These two mods can get you started soon after you've got some sand, gravel and clay to a huge amount of variety in how you make your tools, weapons and armor.",
+		"",
+		"You can make very good general purpose tools, or specialized armor to be amazing in one particular situation, some of the effects that you can give to your gear quite unique or useful like teleporting the loot of slayed enemies directly into your inventory, or having an easier way to access mending, giving you night vision, jump higher, run faster...",
+		"",
+		"Myself, I made a sponge pan to bonk people right into my traps. Powerful and fun mod. Try it if you don't know it already."
+	],
+	dependencies: [
+		"c429ac1b"
+	],
+	tasks: [{
+		uid: "fe4f1825",
+		type: "checkmark",
+		icon: "tconstruct:tooltables"
+	}]
+}

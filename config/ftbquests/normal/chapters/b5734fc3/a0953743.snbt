@@ -1,0 +1,19 @@
+{
+	title: "Thaumcraft",
+	x: 2.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "ef6b5c49",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon"
+		}
+	}]
+}

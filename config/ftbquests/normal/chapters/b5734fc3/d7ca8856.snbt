@@ -1,0 +1,11 @@
+{
+	title: "Bibliocraft",
+	icon: "bibliocraft:clock 1 5",
+	x: 2.0d,
+	y: 13.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "a379c209",
+		type: "checkmark"
+	}]
+}

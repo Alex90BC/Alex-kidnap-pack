@@ -1,0 +1,26 @@
+{
+	title: "Hello bondage world",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to this new modpack! First thing first, I hope you'll have fun, be respectful and try to not cross other players' limits if you're playing in multiplayer. ",
+		"These quests will help you both in learning and in having faster access to some tools to kidnap your first cutie giving you some freebies once you make one of a certain item. ",
+		"To begin with, procure yourself some white wool, you'll need it to make some ropes. ",
+		"",
+		"Click on the checkmark to complete this quest and get some shears to harmlessly gather some."
+	],
+	tasks: [{
+		uid: "3e323b2f",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f9a67228",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shears_gold"
+		}
+	}]
+}

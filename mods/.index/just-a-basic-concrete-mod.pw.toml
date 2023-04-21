@@ -1,0 +1,14 @@
+name = "Just A Basic Concrete Mod"
+filename = "JABCM-1.12.2-0.0.6_A.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 3206947
+project-id = 412363

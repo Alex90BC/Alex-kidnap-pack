@@ -1,0 +1,29 @@
+{
+	title: "Shio-bari",
+	x: 6.0d,
+	y: -2.0d,
+	text: [
+		"Shibari ropes are just the best. They look good, they're harder to struggle from and they're also used in one more crafting like the basic ropes.",
+		"",
+		"Try crafting some by surrounding a rope with 8 rope gags in the (3x3) crafting grid.",
+		"",
+		"Dew it."
+	],
+	dependencies: [
+		"03644e1e"
+	],
+	tasks: [{
+		uid: "0afc9bf9",
+		type: "item",
+		items: [{
+			item: "knapm:shibari"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "5666002c",
+		type: "item",
+		item: "knapm:shibari",
+		count: 2
+	}]
+}

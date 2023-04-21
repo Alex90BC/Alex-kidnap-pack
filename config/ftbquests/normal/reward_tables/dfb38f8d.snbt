@@ -1,0 +1,71 @@
+{
+	title: "Gags",
+	icon: "knapm:panel_gag",
+	loot_size: 16,
+	rewards: [{
+		item: "knapm:cloth_gag"
+	},
+	{
+		item: "knapm:ball_gag"
+	},
+	{
+		item: "knapm:ball_gag_strap"
+	},
+	{
+		item: "knapm:wrap_gag"
+	},
+	{
+		item: "knapm:tape_gag"
+	},
+	{
+		item: "knapm:chain_panel_gag"
+	},
+	{
+		item: "knapm:ribbon_gag"
+	},
+	{
+		item: "knapm:slime_gag"
+	},
+	{
+		item: "knapm:medical_gag"
+	},
+	{
+		item: "knapm:tube_gag"
+	},
+	{
+		item: "knapm:vine_gag"
+	},
+	{
+		item: "knapm:bite_gag"
+	},
+	{
+		item: "knapm:web_gag"
+	},
+	{
+		item: "knapm:beam_panel_gag"
+	},
+	{
+		item: "knapm:cleave_gag"
+	},
+	{
+		item: "knapm:baguette_gag"
+	},
+	{
+		item: "knapm:sponge_gag"
+	},
+	{
+		item: "knapm:panel_gag"
+	},
+	{
+		item: "knapm:latex_gag"
+	}],
+	loot_crate: {
+		string_id: "gags",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

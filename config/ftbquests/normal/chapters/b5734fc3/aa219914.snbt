@@ -1,0 +1,23 @@
+{
+	title: "Refined Storage",
+	x: -2.0d,
+	y: 8.0d,
+	shape: "gear",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "e020035d",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			},
+			Damage: 1s
+		}
+	}]
+}

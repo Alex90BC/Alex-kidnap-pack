@@ -1,0 +1,31 @@
+{
+	title: "Didnapper arrows",
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"Tying up someone while they're still works, but what if they're not?",
+		"",
+		"If kidnapping and catching someone by surprise is more your style, or you just need to teach that annoying brat a lesson, you will need to get those ropes on that spankable body of theirs by other means.",
+		"",
+		"Mix a rope and an arrow and you'll get an arrow that will help you with tying up someone from a distance and instantly.",
+		"",
+		"Remember that the arrow will still be disarmed, but get one ready for now and you'll learn how to load it next."
+	],
+	dependencies: [
+		"14a02c9b"
+	],
+	tasks: [{
+		uid: "fc6a6b8c",
+		type: "item",
+		items: [{
+			item: "knapm:rope_arrow"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "a9bf3ec6",
+		type: "item",
+		item: "knapm:rope_arrow",
+		count: 7
+	}]
+}
